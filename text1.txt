@@ -1,1 +1,5 @@
-created text1.txt file
+git clone
+git add
+git commit -m
+git push origin main
+
